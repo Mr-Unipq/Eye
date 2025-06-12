@@ -4,7 +4,7 @@ Eye Executor – Powerful Roblox Internal Executor
 Developed by: Mr. Unipq
 Version: Currently supports 98sUNC and 99UNC
 
-https://media.discordapp.net/attachments/1382065714847813713/1382796447631806575/EyeLogo_1.png?ex=684c750c&is=684b238c&hm=46b2a2b7864198e4a1990af1da580b70939978ba049b61ef79d74602dec6b97d&=&format=webp&quality=lossless&width=548&height=548
+<!-- https://media.discordapp.net/attachments/1382065714847813713/1382796447631806575/EyeLogo_1.png?ex=684c750c&is=684b238c&hm=46b2a2b7864198e4a1990af1da580b70939978ba049b61ef79d74602dec6b97d&=&format=webp&quality=lossless&width=548&height=548 -->
 
 🚀 Features
 ✅ Free Internal Executor
